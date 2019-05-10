@@ -8,3 +8,4 @@ Roadmap
 - Upload files / entire directories
 - Download files / entire directories
 - List files and directories
+- Cross platform GUI
